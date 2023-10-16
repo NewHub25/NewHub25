@@ -1,9 +1,9 @@
-<img src="assets/notebook.jpg">
-<h2>I am a passionate frontend developer. I love programming and developing new technologies.</h2>
+<img src="assets/libreto.png">
+<h2>Soy un apasionado desarrollador frontend. Me encanta programar y desarrollar nuevas tecnologías.</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+site)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Bienvenidos+a+mi+perfil)](https://git.io/typing-svg)
 <br>
-><h3>Technologies, tools and languages I code</h3>
+><h3>Tecnologías, herramientas y lenguajes que uso</h3>
 <p align="center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-fbe02d?style=flat-square&logo=javascript&logoColor=white" />
@@ -30,7 +30,7 @@
   <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-4b32c3?style=flat-square&logo=eslint&logoColor=white" />
 </p>
 
-><h3>Follow me on my social networks</h3>
+><h3>Sígueme en mis redes sociales</h3>
 <p>
   <a href="https://github.com/NewHub25" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/@TerrySmart25" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=X&logoColor=333" /></a>
@@ -39,9 +39,9 @@
   <a href="https://medium.com/@mathterry25" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<h4 align="center">Work together</h4>
+<h4 align="center">Trabajemos juntos</h4>
 <p align="center">
-  <img alt="Github" src="https://img.shields.io/badge/clean_code-passionate-green" />
-  <img alt="Github" src="https://img.shields.io/badge/programmer-enthusiastic-blue" />
-  <img alt="Github" src="https://img.shields.io/badge/learning-fast-crimson" />
+  <img alt="Github" src="https://img.shields.io/badge/buenas_prácticas-apasionado-green" />
+  <img alt="Github" src="https://img.shields.io/badge/programador-estusiasta-blue" />
+  <img alt="Github" src="https://img.shields.io/badge/aprendizaje-rápido-crimson" />
 </p>
